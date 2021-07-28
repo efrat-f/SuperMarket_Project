@@ -1,0 +1,25 @@
+.home{
+    width: 100%;
+    height: 100%;
+    background-size: 100% auto;
+/*     object-fit: cover;*/
+    background-repeat: no-repeat !important;
+    opacity: 95% !important;
+    background-position: center;
+}
+.homeDivText{
+    margin: 3%;
+    font-size: 12px;
+    text-decoration-line: underline;
+    color: #2ab32f;
+    text-align: center;
+}
+.homeDivTitle{
+    margin: 3%;
+    font-size: 19px;
+    color: #2ab32f;
+    text-align: center;
+}
+.modelHeader{
+    display: block !important;
+}

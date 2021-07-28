@@ -1,0 +1,20 @@
+.active{
+    background-color: #d7cfb2;;
+}
+.productPageNav{
+    background-color: #175522f7;
+    box-shadow: 0 0 29px -16px #d7cfb2;
+    width: 100%;
+}
+.productPageNavLink{
+    color: #030303
+}
+.productPageNavLink:hover{
+    color: white
+}
+/* .productPageNavLink::activ{
+    color: green;
+}
+.productPageNav::active{
+    color: green;
+} */

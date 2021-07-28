@@ -1,0 +1,46 @@
+.calcButtonAmountInvited{
+    display: inline-block;
+    line-height: 1vw;
+    margin:auto;
+}
+.calcButtonWidth{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    height: 1.5vw;
+    margin: auto;
+    font-size: 100%;
+    min-height: 17px;
+    font-size: 1vw;
+}
+.calcButtonHover:hover{
+    color:white ;
+}
+.calcButton{
+    border: solid black 2px;
+}
+.calcButtonMinus{
+    border: none;
+    border-left: solid black 2px;
+    background-color:#2ab32f !important;
+    color: #d7cfb2;
+    line-height: 0;
+
+}
+.calcButtonPlus{
+    border: none;
+    border-right: solid black 2px;
+    background-color:#2ab32f !important;
+    color: #d7cfb2;
+    line-height: 0;
+}
+.calcButtonAddToCart{
+    border: solid black 2px;
+    border-top: none;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    background-color: #2ab32f !important;
+    color: #d7cfb2;
+    border: solid black 2px;
+}

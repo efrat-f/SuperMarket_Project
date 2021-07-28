@@ -1,0 +1,29 @@
+.entrance{
+    margin-top: 20vh;
+    text-align: center;
+    background-color: blanchedalmond;
+    border: solid red;
+    border-radius: 15px;
+    width: 30%;
+    min-width: 230px;
+}
+.entranceInput{
+   width: 100%
+}
+.entranceInputDiv{
+    margin: 1.5vh;
+}
+.entranceInputDivLabel{
+    display: inline-block;
+    text-align: left;
+    width: 40%;
+}
+.entranceInputDivInput{
+    display: inline-block;
+    width: 60%;
+    text-align: right;
+}
+.entranceErrorMessage{
+    color: red;
+    text-align: right;
+}

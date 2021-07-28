@@ -1,0 +1,15 @@
+{
+  "name": "example-create-react-app-express",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"cd server && npm i && npm start\" \"cd client && npm i && npm start\"",
+    "install": "concurrently \"cd server && npm install\" \"cd client && npm install\""
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.2"
+  }
+}

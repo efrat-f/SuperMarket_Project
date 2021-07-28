@@ -1,0 +1,40 @@
+.product{
+    border:2px solid black;
+    margin: 3%;
+    height: 10vw;
+    margin: 3% 0 3% 0;
+}
+.productDivDiv{
+    border-right: thick dotted rgb(199, 196, 196);
+    text-align: center;
+    color: black;
+    height: 100%;
+    margin: center;
+    display: flex;
+    width: 30%;
+}
+.productDivImg{
+    width: 15%;
+}
+.productDiv{
+    height: 100%;
+    background-color: white;
+   
+}
+.productCalcButton{
+    width: 25%;
+    text-align: center;
+    margin: auto;
+}
+.productDivText{
+    margin: auto;
+    font-size: 2vw;
+}
+.productDivDescription{
+    height: 25%;
+    margin-bottom: 0;
+    padding: 0;
+}
+.productDivNameDescription{
+    margin: auto;
+}
